@@ -1,0 +1,42 @@
+h1 {
+    color: green;
+    text-align: center;
+    }
+
+table {
+       border-collapse: collapse;
+       margin: auto;
+       width: 650px;
+       text-align: center;
+       padding: 8px 0px 8px 0px;
+       }
+       
+.tableheader {
+               background-color: yellow;
+               border: 2px solid black;
+               width: 20%;
+               font-weight: bold;
+               }
+
+.row2 {
+        color: red;
+        
+        }
+        
+        
+.row3 {
+        color: blue;
+        }
+        
+body {
+       font-family: Verdana;
+       }
+       
+.border {
+          border: 2px dotted blue;
+          }
+          
+
+td {
+    padding: 4px 0px 4px 0px;
+    }
